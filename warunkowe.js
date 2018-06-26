@@ -6,6 +6,6 @@ if (value > 0) {
 	document.write('Wynik dodatni'); 
 } else if (value < 0) {
 	document.write('Wynik ujemny');
-} else (value == 0) {
+} else {
 	document.write('Równy zero');
 }
